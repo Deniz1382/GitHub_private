@@ -1,0 +1,2 @@
+(a) Experimentally investigate how often one has to choose a random number between 1 and n until every number has appeared at least once. Conduct 100 experiments for n = 10, 100, and 1000, respectively, and determine the minimum, maximum, and average number of attempts for each n. An experiment consists of the necessary number of attempts until all numbers have been observed. (By the way, the expected value for the number of attempts is n(1 + 1/2 + 1/3 + ... + 1/n).)
+```python 
